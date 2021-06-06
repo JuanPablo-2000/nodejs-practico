@@ -6,3 +6,4 @@ Dependencias
 npm i jsonwebtoken
 npm i swagger-ui-express nanoid
 npm i bcrypt
+npm i mysql
